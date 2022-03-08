@@ -1,0 +1,32 @@
+C:\Users\nikla\Using\Restory Education\Handelsakademin NBI Halmstad\Objektorienterad programmering med AI kompetens\Avancerad OOP\Lektion 1\Lektion1Training\Lektion3Sorts\bin\Debug\net5.0\Lektion3Sorts.exe
+C:\Users\nikla\Using\Restory Education\Handelsakademin NBI Halmstad\Objektorienterad programmering med AI kompetens\Avancerad OOP\Lektion 1\Lektion1Training\Lektion3Sorts\bin\Debug\net5.0\Lektion3Sorts.deps.json
+C:\Users\nikla\Using\Restory Education\Handelsakademin NBI Halmstad\Objektorienterad programmering med AI kompetens\Avancerad OOP\Lektion 1\Lektion1Training\Lektion3Sorts\bin\Debug\net5.0\Lektion3Sorts.runtimeconfig.json
+C:\Users\nikla\Using\Restory Education\Handelsakademin NBI Halmstad\Objektorienterad programmering med AI kompetens\Avancerad OOP\Lektion 1\Lektion1Training\Lektion3Sorts\bin\Debug\net5.0\Lektion3Sorts.runtimeconfig.dev.json
+C:\Users\nikla\Using\Restory Education\Handelsakademin NBI Halmstad\Objektorienterad programmering med AI kompetens\Avancerad OOP\Lektion 1\Lektion1Training\Lektion3Sorts\bin\Debug\net5.0\Lektion3Sorts.dll
+C:\Users\nikla\Using\Restory Education\Handelsakademin NBI Halmstad\Objektorienterad programmering med AI kompetens\Avancerad OOP\Lektion 1\Lektion1Training\Lektion3Sorts\bin\Debug\net5.0\ref\Lektion3Sorts.dll
+C:\Users\nikla\Using\Restory Education\Handelsakademin NBI Halmstad\Objektorienterad programmering med AI kompetens\Avancerad OOP\Lektion 1\Lektion1Training\Lektion3Sorts\bin\Debug\net5.0\Lektion3Sorts.pdb
+C:\Users\nikla\Using\Restory Education\Handelsakademin NBI Halmstad\Objektorienterad programmering med AI kompetens\Avancerad OOP\Lektion 1\Lektion1Training\Lektion3Sorts\obj\Debug\net5.0\Lektion3Sorts.csproj.AssemblyReference.cache
+C:\Users\nikla\Using\Restory Education\Handelsakademin NBI Halmstad\Objektorienterad programmering med AI kompetens\Avancerad OOP\Lektion 1\Lektion1Training\Lektion3Sorts\obj\Debug\net5.0\Lektion3Sorts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikla\Using\Restory Education\Handelsakademin NBI Halmstad\Objektorienterad programmering med AI kompetens\Avancerad OOP\Lektion 1\Lektion1Training\Lektion3Sorts\obj\Debug\net5.0\Lektion3Sorts.AssemblyInfoInputs.cache
+C:\Users\nikla\Using\Restory Education\Handelsakademin NBI Halmstad\Objektorienterad programmering med AI kompetens\Avancerad OOP\Lektion 1\Lektion1Training\Lektion3Sorts\obj\Debug\net5.0\Lektion3Sorts.AssemblyInfo.cs
+C:\Users\nikla\Using\Restory Education\Handelsakademin NBI Halmstad\Objektorienterad programmering med AI kompetens\Avancerad OOP\Lektion 1\Lektion1Training\Lektion3Sorts\obj\Debug\net5.0\Lektion3Sorts.csproj.CoreCompileInputs.cache
+C:\Users\nikla\Using\Restory Education\Handelsakademin NBI Halmstad\Objektorienterad programmering med AI kompetens\Avancerad OOP\Lektion 1\Lektion1Training\Lektion3Sorts\obj\Debug\net5.0\Lektion3Sorts.dll
+C:\Users\nikla\Using\Restory Education\Handelsakademin NBI Halmstad\Objektorienterad programmering med AI kompetens\Avancerad OOP\Lektion 1\Lektion1Training\Lektion3Sorts\obj\Debug\net5.0\ref\Lektion3Sorts.dll
+C:\Users\nikla\Using\Restory Education\Handelsakademin NBI Halmstad\Objektorienterad programmering med AI kompetens\Avancerad OOP\Lektion 1\Lektion1Training\Lektion3Sorts\obj\Debug\net5.0\Lektion3Sorts.pdb
+C:\Users\nikla\Using\Restory Education\Handelsakademin NBI Halmstad\Objektorienterad programmering med AI kompetens\Avancerad OOP\Lektion 1\Lektion1Training\Lektion3Sorts\obj\Debug\net5.0\Lektion3Sorts.genruntimeconfig.cache
+C:\Users\nikla\Git\Lektion3Sorts\Lektion3SortingAlgoritms\bin\Debug\net5.0\Lektion3Sorts.exe
+C:\Users\nikla\Git\Lektion3Sorts\Lektion3SortingAlgoritms\bin\Debug\net5.0\Lektion3Sorts.deps.json
+C:\Users\nikla\Git\Lektion3Sorts\Lektion3SortingAlgoritms\bin\Debug\net5.0\Lektion3Sorts.runtimeconfig.json
+C:\Users\nikla\Git\Lektion3Sorts\Lektion3SortingAlgoritms\bin\Debug\net5.0\Lektion3Sorts.runtimeconfig.dev.json
+C:\Users\nikla\Git\Lektion3Sorts\Lektion3SortingAlgoritms\bin\Debug\net5.0\Lektion3Sorts.dll
+C:\Users\nikla\Git\Lektion3Sorts\Lektion3SortingAlgoritms\bin\Debug\net5.0\ref\Lektion3Sorts.dll
+C:\Users\nikla\Git\Lektion3Sorts\Lektion3SortingAlgoritms\bin\Debug\net5.0\Lektion3Sorts.pdb
+C:\Users\nikla\Git\Lektion3Sorts\Lektion3SortingAlgoritms\obj\Debug\net5.0\Lektion3Sorts.csproj.AssemblyReference.cache
+C:\Users\nikla\Git\Lektion3Sorts\Lektion3SortingAlgoritms\obj\Debug\net5.0\Lektion3Sorts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikla\Git\Lektion3Sorts\Lektion3SortingAlgoritms\obj\Debug\net5.0\Lektion3Sorts.AssemblyInfoInputs.cache
+C:\Users\nikla\Git\Lektion3Sorts\Lektion3SortingAlgoritms\obj\Debug\net5.0\Lektion3Sorts.AssemblyInfo.cs
+C:\Users\nikla\Git\Lektion3Sorts\Lektion3SortingAlgoritms\obj\Debug\net5.0\Lektion3Sorts.csproj.CoreCompileInputs.cache
+C:\Users\nikla\Git\Lektion3Sorts\Lektion3SortingAlgoritms\obj\Debug\net5.0\Lektion3Sorts.dll
+C:\Users\nikla\Git\Lektion3Sorts\Lektion3SortingAlgoritms\obj\Debug\net5.0\ref\Lektion3Sorts.dll
+C:\Users\nikla\Git\Lektion3Sorts\Lektion3SortingAlgoritms\obj\Debug\net5.0\Lektion3Sorts.pdb
+C:\Users\nikla\Git\Lektion3Sorts\Lektion3SortingAlgoritms\obj\Debug\net5.0\Lektion3Sorts.genruntimeconfig.cache

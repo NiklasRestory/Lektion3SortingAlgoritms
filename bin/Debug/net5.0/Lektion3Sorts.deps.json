@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Lektion3Sorts/1.0.0": {
+        "runtime": {
+          "Lektion3Sorts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lektion3Sorts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

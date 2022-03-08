@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "K0qpzlhzLrJTR79QLZQ+T//lzMSxt7dh1M217AYiVzBbzqmQOGrN8FinLolbOLcLwSk7Iewk/nEsqif/BbVXUA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nikla\\Git\\Lektion3Sorts\\Lektion3SortingAlgoritms\\Lektion3Sorts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nikla\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
